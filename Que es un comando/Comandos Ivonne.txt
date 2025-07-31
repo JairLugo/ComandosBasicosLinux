@@ -1,0 +1,18 @@
+La presentación Comandos básicos de Linux fue realizada por Jair, Ludwing, Rocío e Ivonne del equipo 1.
+
+Objetivo: Participación activa de los cuatro miembros del equipo 1 
+
+La presentación nos la dividimos en temas y a continuación describiré los temas que me tocaron investigar y exponer:
+
+* ¿Qué es un comando?
+* Comandos básicos
+* Ejemplos de comandos básicos: pwd y ls
+
+Fuente de información:
+https://www.godaddy.com/
+https://www.ionos.mx/digitalguide/servidores/configuracion/comando-de-linux-pwd/
+https://www.freecodecamp.org/espanol/news/el-comando-linux-ls-como-listar-archivos-en-un-directorio-indicadores-de-opcion/
+
+
+ 
+
