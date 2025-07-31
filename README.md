@@ -5,14 +5,13 @@ _Nuestro equipo hizo una breve presentacion de lo que es Linux, como funciona, d
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Este reposiotio contiene la presentación del tema *Comandos básicos de Linux* junto con las perspectivas de elaboración de la presentación de parte de los miembros del equipo._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+Mira **Autores** para conocer más.
 
 ### Pre-requisitos 📋
 
-_Ningún requisito previo es necesario para usare este repositorio_
+_Ningún requisito previo es necesario para usar este repositorio_
 
 ## Autores ✒️
 
