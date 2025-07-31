@@ -1,7 +1,7 @@
 # ComandosBasicosLinux
 Presentación de Ivonne, Jair, Ludwig, Rocio para el Bootcamp de Generation México -Especialista de Soporte Técnico CH3
 
-_Nuestro equipo hizo una breve presentacion de lo que es Linux, como funciona, de que esta compuesto y cuales don los comandos basicos para utilizarlo_
+_Nuestro equipo hizo una breve presentacion de lo que es Linux, como funciona, de que esta compuesto y cuales son los comandos basicos para utilizarlo_.
 
 ## Comenzando 🚀
 
