@@ -21,7 +21,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Ludwig Ordoñez** - *Que es Linux* - [villanuevand](https://github.com/villanuevand)
 * **Jair Lugo Aguilera** - *Comando mkdir, comando rm* - [JairLugo](https://github.com/JairLugo)
 * **Ivonne Alejandre García** - *Comandos en Linux, pwd, ls* - [Ivo-collab](https://github.com/Ivo-collab))
-* **Rocio Agustin Hilario** - *Comando cd y touch* - [30-agustin]([#fulanito-de-tal](https://github.com/30-agustin))
+* **Rocio Agustin Hilario** - *Comando cd y touch* - [30-agustin]((https://github.com/30-agustin))
 
   
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
